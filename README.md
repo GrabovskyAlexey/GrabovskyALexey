@@ -1,5 +1,3 @@
-[![GitHub Streak](https://streak-stats.demolab.com/?user=GrabovskyAlexey&hide_border=true)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrabovskyAlexey&layout=compact)
-
 <!--
 **GrabovskyAlexey/GrabovskyALexey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +11,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=GrabovskyAlexey&hide_border=true)](https://git.io/streak-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GrabovskyAlexey&layout=compact)
 -->
